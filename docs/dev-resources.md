@@ -31,7 +31,6 @@ Do you have a favorite resource that's not listed below? Let us know on Discord 
 - [LMMS](https://lmms.io/) (Digital Audio Workstation)
 - [FamiStudio](https://famistudio.org/) (NES Style Music Editor)
 - [Chiptone](https://sfbgames.itch.io/chiptone) (SFX)
-- [BFXR](https://www.bfxr.net/) (SFX; Flash web version defunct - use standalone)
 - [BlendWave](https://beta.blendwave.net/?p=wavePanel) (SFX)
 - [Tiled](https://www.mapeditor.org/) (2D Map Editor)
 - [Level Designer Toolkit](https://deepnight.net/tools/ldtk-2d-level-editor/) (2D Map Editor)
