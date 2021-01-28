@@ -27,14 +27,14 @@ Do you have a favorite resource that's not listed below? Let us know on Discord 
 - [magica voxel](https://www.voxelmade.com/magicavoxel/) (Voxel Modelling)
 - [AssetForge](https://assetforge.io/) ($20; Modelling)
 - [Abundant Music](https://pernyblom.github.io/abundant-music/index.html) (Procedurally Generate Music)
-- [WaveBots Editor](https://krasse.itch.io/wavebots-editor) ($15; Procedurally Generate Music)
+- [WaveBots Editor](https://krasse.itch.io/wavebots-editor) (Free basic, $15 full; Procedurally Generate Music)
 - [LMMS](https://lmms.io/) (Digital Audio Workstation)
 - [FamiStudio](https://famistudio.org/) (NES Style Music Editor)
 - [Chiptone](https://sfbgames.itch.io/chiptone) (SFX)
 - [BFXR](https://www.bfxr.net/) (SFX; Flash web version defunct - use standalone)
 - [BlendWave](https://beta.blendwave.net/?p=wavePanel) (SFX)
 - [Tiled](https://www.mapeditor.org/) (2D Map Editor)
-- [Level Designer Toolkit](https://deepnight.net/tools/ldtk-2d-level-editor/)) (2D Map Editor)
+- [Level Designer Toolkit](https://deepnight.net/tools/ldtk-2d-level-editor/) (2D Map Editor)
 
 
 ## Tutorials & Info
