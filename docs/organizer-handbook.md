@@ -1,3 +1,5 @@
+[Home](/) > Organizer Handbook
+
 # Jam Organizer Handbook
 
 Here are some guidelines to follow during the jam in order to help participants enjoy the event.
