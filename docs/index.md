@@ -1,3 +1,3 @@
-[Game Jam Development and Design Resources](/dev-resources)
+[Game Jam Development and Design Resources](/jam-info/dev-resources)
 
-[Jam Organizer Handbook](/organizer-handbook)
+[Jam Organizer Handbook](/jam-info/organizer-handbook)
