@@ -1,3 +1,5 @@
+[Home](/) > Dev Resources
+
 # Game Jam Development and Design Resources
 
 Do you have a favorite resource that's not listed below? Let us know on Discord and we'll check it out!
