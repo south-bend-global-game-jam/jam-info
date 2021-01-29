@@ -1,4 +1,4 @@
-[Home](/) > Dev Resources
+[Home](/jam-info/) > Dev Resources
 
 # Game Jam Development and Design Resources
 
