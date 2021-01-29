@@ -1,4 +1,4 @@
-[Home](/) > Organizer Handbook
+[Home](/jam-info/) > Organizer Handbook
 
 # Jam Organizer Handbook
 
